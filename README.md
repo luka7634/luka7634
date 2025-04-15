@@ -16,7 +16,7 @@
 * Python: ['Kivy', 'Tkinter', 'OS', 'Array Manipulation', 'POO', 'Sorting Algorithms', 'and sorting my life out, but that’s a work in progress']
 * C/C++ = {
 
-  Compeitive Programming on DMOJ -> Link to my [profile](https://dmoj.uclv.edu.cu/user/Roybel878)
+  Competitive Programming on DMOJ -> Link to my [profile](https://dmoj.uclv.edu.cu/user/Roybel878)
 
   I participated on [II UCI Programming Cup for High School Students](https://dmoj.uclv.edu.cu/contest/2copauci), obtainig 290 points and bronze medal
 
