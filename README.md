@@ -4,9 +4,12 @@
 **Currently Working on: Being better with C/C++ (and figuring out how to stop talking to my code like it can hear me)**
 
 **Soft Skills:**
-> Note: high level of english comprehension
+> High level of english comprehension
+>
 > I know how to work in team (as long as I get to be the one who brings snacks)
+>
 > Excellent communication skills (I can explain complex concepts without using too many acronyms)
+> 
 > Strong problem-solving abilities (I can troubleshoot both code and my life)
 
 **HABILITIES:**
