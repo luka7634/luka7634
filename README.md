@@ -44,10 +44,12 @@
 
 };
 
-**GOALS: Improve C/C++ skills and become a Full Stack Developer**
+**GOALS: Become a Full Stack Developer**
 
-## Personal projects: (coming soon)
-
+## Personal projects:
+**Login/Register Site**:
+> Here you can see the (demo)[https://luka7634.github.io/Login-Register-A/]
+> And here you can see the source code: 
 
 **Let’s Connect!**
 
