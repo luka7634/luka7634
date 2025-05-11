@@ -55,6 +55,6 @@
 
 I’m always open to new opportunities, collaborations, or just a good chat about tech. Don’t hesitate to reach out!
 
-You can contact me via this mail -> _luka68231@gmail.com_ (but please, no spam) <button onclick="window.location.href='mailto:correo@ejemplo.com?subject=Consulta&body=Hola,%20me%20interesa%20tu%20proyecto.'">📧 Contactar por correo</button>
+You can contact me via this mail -> _luka68231@gmail.com_ (but please, no spam)
 
 I can code better than I play videogames, I swear
