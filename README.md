@@ -49,7 +49,8 @@
 ## Personal projects:
 **Login/Register Site**:
 > Here you can see the [demo](https://luka7634.github.io/Login-Register-A/)
-> And here you can see the source code: 
+
+> And here you can see the [source code](https://github.com/luka7634/Login-Register-A.git)
 
 **Let’s Connect!**
 
