@@ -48,13 +48,13 @@
 
 ## Personal projects:
 **Login/Register Site**:
-> Here you can see the (demo)[https://luka7634.github.io/Login-Register-A/]
+> Here you can see the [demo](https://luka7634.github.io/Login-Register-A/)
 > And here you can see the source code: 
 
 **Let’s Connect!**
 
 I’m always open to new opportunities, collaborations, or just a good chat about tech. Don’t hesitate to reach out!
 
-You can contact me via this mail -> _luka68231@gmail.com_ (but please, no spam)
+You can contact me via this mail -> _luka68231@gmail.com_ (but please, no spam) <button onclick="window.location.href='mailto:correo@ejemplo.com?subject=Consulta&body=Hola,%20me%20interesa%20tu%20proyecto.'">📧 Contactar por correo</button>
 
 I can code better than I play videogames, I swear
