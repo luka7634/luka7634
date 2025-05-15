@@ -53,7 +53,9 @@
 > And here you can see the [source code](https://github.com/luka7634/Login-Register-A.git)
 
 **Login/Register Site 2**:
-> Here you can see the [demo]()
+> Here you can see the [demo](https://luka7634.github.io/Login-Register-B)
+
+> And here you can see the [source code](https://github.com/luka7634/Login-Register-B)
 
 **Let’s Connect!**
 
