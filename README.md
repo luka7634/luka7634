@@ -47,10 +47,13 @@
 **GOALS: Become a Full Stack Developer**
 
 ## Personal projects:
-**Login/Register Site**:
+**Login/Register Site 1**:
 > Here you can see the [demo](https://luka7634.github.io/Login-Register-A/)
 
 > And here you can see the [source code](https://github.com/luka7634/Login-Register-A.git)
+
+**Login/Register Site 2**:
+> Here you can see the [demo]()
 
 **Let’s Connect!**
 
