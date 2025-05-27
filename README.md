@@ -1,7 +1,7 @@
 # **Hi there, I'm Luka ✌️**
 ### 🚀 Developer/Student
 
-**Currently Working on: Being better with C/C++ (and figuring out how to stop talking to my code like it can hear me)**
+**Currently Working on: Developing WebSites (and figuring out how to stop talking to my code like it can hear me)**
 
 **Soft Skills:**
 > High level of english comprehension
@@ -13,6 +13,8 @@
 > Strong problem-solving abilities (I can troubleshoot both code and my life)
 
 **HABILITIES:**
+* HTML5
+* CSS
 * Python: ['Kivy', 'Tkinter', 'OS', 'Array Manipulation', 'POO', 'Sorting Algorithms', 'and sorting my life out, but that’s a work in progress']
 * C/C++ = {
 
@@ -49,12 +51,12 @@
 ## Personal projects:
 **Login/Register Site 1**:
 > Here you can see the [demo](https://luka7634.github.io/Login-Register-A/)
-
+>
 > And here you can see the [source code](https://github.com/luka7634/Login-Register-A.git)
 
 **Login/Register Site 2**:
 > Here you can see the [demo](https://luka7634.github.io/Login-Register-B)
-
+>
 > And here you can see the [source code](https://github.com/luka7634/Login-Register-B)
 
 **Let’s Connect!**
