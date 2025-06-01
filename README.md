@@ -13,8 +13,7 @@
 > Strong problem-solving abilities (I can troubleshoot both code and my life)
 
 **HABILITIES:**
-* HTML5
-* CSS
+* Front-End Developer (managing HTML, CSS and JavaScript)
 * Python: ['Kivy', 'Tkinter', 'OS', 'Array Manipulation', 'POO', 'Sorting Algorithms', 'and sorting my life out, but that’s a work in progress']
 * C/C++ = {
 
